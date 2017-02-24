@@ -1,0 +1,23 @@
+commit 014ab8b61a2a146bd9e7165bb441cc82f04c181b
+Author: Zachary Gracia <zgracia@mymail.mines.edu>
+Date:   Thu Feb 23 18:54:24 2017 -0700
+
+    Made the cat bigger
+
+commit 0c2e7fb7faa332dcbb5326e3f025181be7d08e79
+Author: Zachary Gracia <zgracia@mymail.mines.edu>
+Date:   Thu Feb 23 18:47:52 2017 -0700
+
+    Moved Cat
+
+commit bcd7fbeb96d9105bdbe0d92552ec1acf02fc1fd7
+Author: Gerald Ung <geraldung@mines.edu>
+Date:   Thu Feb 16 12:12:57 2017 -0700
+
+    Final Changes and Additions
+
+commit a09c3b3c2d023ddd0ff2ab3da0f6e90b761b5fd3
+Author: robopanders <geraldung@mymail.mines.edu>
+Date:   Thu Feb 16 11:36:55 2017 -0700
+
+    Initial commit
